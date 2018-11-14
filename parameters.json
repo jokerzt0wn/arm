@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name": {
-            "value": "table5dwwebapp2dw"
+            "value": "table5dwappplan2"
         },
         "linuxFxVersion": {
             "value": "TOMCAT|8.5-jre8"
